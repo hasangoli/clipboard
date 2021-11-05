@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/clipboard/static/js/main.af91d3a1.chunk.js",
+    "main.js.map": "/clipboard/static/js/main.af91d3a1.chunk.js.map",
+    "runtime-main.js": "/clipboard/static/js/runtime-main.a2d01a78.js",
+    "runtime-main.js.map": "/clipboard/static/js/runtime-main.a2d01a78.js.map",
+    "static/js/2.a00376f2.chunk.js": "/clipboard/static/js/2.a00376f2.chunk.js",
+    "static/js/2.a00376f2.chunk.js.map": "/clipboard/static/js/2.a00376f2.chunk.js.map",
+    "index.html": "/clipboard/index.html",
+    "static/js/2.a00376f2.chunk.js.LICENSE.txt": "/clipboard/static/js/2.a00376f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2d01a78.js",
+    "static/js/2.a00376f2.chunk.js",
+    "static/js/main.af91d3a1.chunk.js"
+  ]
+}
